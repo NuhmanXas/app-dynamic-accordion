@@ -1,0 +1,29 @@
+{
+  "name": "nmm-xas-app-dynamic-accordion",
+  "version": "1.0.0",
+  "description": "A dynamic accordion component for React using React-Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuhmanXas/app-dynamic-accordion.git"
+  },
+  "keywords": [
+    "react",
+    "accordion",
+    "react-bootstrap",
+    "dynamic-accordion"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NuhmanXas/app-dynamic-accordion.git/issues"
+  },
+  "homepage": "https://github.com/NuhmanXas/app-dynamic-accordion.git#readme",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-bootstrap": "^2.0.0"
+  }
+}
