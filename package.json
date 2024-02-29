@@ -1,6 +1,6 @@
 {
   "name": "nmm-xas-app-dynamic-accordion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dynamic accordion component for React using React-Bootstrap.",
   "main": "index.js",
   "scripts": {
